@@ -1,0 +1,9 @@
+{
+  "name": "multisig-vault-contract",
+  "version": "1.0.0",
+  "description": "Multi-signature treasury wallet",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.0"
+  }
+}
